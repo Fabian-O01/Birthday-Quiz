@@ -34,3 +34,7 @@ button:hover {
 .hidden {
     display: none;
 }
+
+button.selected {
+    background-color: #cce5ff;
+}
